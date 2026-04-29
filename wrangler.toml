@@ -1,0 +1,26 @@
+name = "mail-proxy-worker"
+main = "src/index.ts"
+compatibility_date = "2026-04-29"
+workers_dev = false
+
+routes = [
+  { pattern = "smtp-proxy.example.com", custom_domain = true }
+]
+
+[vars]
+MAIL_FROM = "No Reply <no-reply@example.com>"
+MAIL_REPLY_TO = "support@example.com"
+SMTP_HOST = "smtp.example.com"
+SMTP_PORT = "587"
+SMTP_SECURE = "false"
+ALLOWED_TO_DOMAIN = ""
+
+# Store sensitive values as Wrangler secrets instead of plain text vars:
+# npx wrangler secret put PROXY_API_KEY
+# npx wrangler secret put SMTP_USER
+# npx wrangler secret put SMTP_PASS
+
+[observability]
+[observability.logs]
+enabled = false
+invocation_logs = false
