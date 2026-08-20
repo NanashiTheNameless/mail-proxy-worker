@@ -188,3 +188,14 @@ After deployment, call your deployed worker URL or custom domain instead of `htt
 ## License
 
 This project is licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0). See [LICENSE.md](LICENSE.md) for the full license text.
+
+## Support My Work
+
+If this project is useful to you, you can support it here:
+
+- [<https://github.com/sponsors/NanashiTheNameless>](<https://github.com/sponsors/NanashiTheNameless>)
+- [<https://buymeacoffee.com/NamelessNanashi>](<https://buymeacoffee.com/NamelessNanashi>)
+- [<https://ko-fi.com/NanashiTheNameless>](<https://ko-fi.com/NanashiTheNameless>)
+- [<https://liberapay.com/NamelessNanashi>](<https://liberapay.com/NamelessNanashi>)
+- [<https://thanks.dev/u/gh/NanashiTheNameless>](<https://thanks.dev/u/gh/NanashiTheNameless>)
+- [<https://throne.com/NamelessNanashi>](<https://throne.com/NamelessNanashi>)
